@@ -1,0 +1,19 @@
+{
+    "dataWrangler.enabledFileTypes": {
+        "jsonl": true
+    },
+    "remote.portsAttributes": {
+
+        "443": {
+            "protocol": "https"
+        },
+        "8443": {
+            "protocol": "https"
+        }
+    },
+    "notebook.editorOptionsCustomizations": {},
+    "comments.maxHeight": false,
+    "notebook.compactView": false,
+    "notebook.output.scrolling": true,
+    "notebook.output.textLineLimit": 300
+}
