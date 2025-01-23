@@ -4,3 +4,5 @@ chromadb # Vector storage
 pytest
 boto3
 langchain-community
+langchain-ollama
+langchain-chroma
